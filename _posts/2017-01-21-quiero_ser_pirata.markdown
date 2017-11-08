@@ -164,7 +164,7 @@ por voto y mayoría, sino por **consenso**.
 La sala de chat se accede vía IRC o Telegram.
 
 * Si no tenés un cliente de IRC, podés usar este link:
-* <https://webchat.pirateirc.net/?channels=ppar>
+* https://webchat.pirateirc.net/#ppar
 
 * Si tenés un cliente IRC, los datos son estos:
 
